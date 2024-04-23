@@ -4,9 +4,9 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="tkinterdnd2-pmgagne", # Replace with your own username
+    name="tkinterdnd2-Adaminion", # Replace with your own username
     version="0.3.0",
-    author="pmgagne",
+    author="Adaminion",
     description="TkinterDnD2 is a python wrapper for George Petasis'' tkDnD Tk extension version 2",
     long_description=long_description,
     long_description_content_type="text/markdown",
